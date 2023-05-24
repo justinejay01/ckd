@@ -1,0 +1,85 @@
+PATIENT ID,SEX,AGE,HEIGHT,WEIGHT,PATIENT_POTASSIUM,FOOD LEVEL,CREATININE,FOOD ,FOOD_POTASSIUM_LEVEL,FOOD DATA
+1,Male,58,1.67,68.1,6.19,LOW,1006.31,Apple ,3.8,Apple  LOW 3.8
+2,Female,44,1.55,58.2,4.79,SAFE,944.95,Egg whites,1.4,Egg whites SAFE 1.4
+3,Male,73,1.69,52,4.53,SAFE,468.3,Watermelon,2.4,Watermelon SAFE 2.4
+4,Male,60,1.75,65.5,4.43,SAFE,695.1,Radish,3.5,Radish SAFE 3.5
+5,Male,33,1.52,48,5.1,LOW,1439.15,Corn,2.8,Corn LOW 2.8
+6,Male,52,1.55,52.3,5.14,LOW,1031.91,Tangerines,3,Tangerines LOW 3
+7,Male,47,1.62,61.2,4.45,SAFE,821.4,Onion,3.3,Onion SAFE 3.3
+8,Female,45,1.6,61.8,5,SAFE,1102,Okra,3.1,Okra SAFE 3.1
+9,Male,46,1.58,55.1,4.7,SAFE,963,Black olives,1,Black olives SAFE 1
+10,Male,31,1.52,61.6,5.35,LOW,792.49,Peaches,3.3,Peaches LOW 3.3
+11,Female,72,1.51,62.5,4.25,SAFE,629.4,Bacon,1.5,Bacon SAFE 1.5
+12,Male,44,1.66,59.9,4.63,SAFE,912,Ginisang munggo,3.6,Ginisang munggo SAFE 3.6
+13,Female,35,1.7,67.4,4.4,SAFE,824.5,Pancit bihon ,1.7,Pancit bihon  SAFE 1.7
+14,Female,43,1.59,61.7,6.19,LOW,989.3,White bread,0.4,White bread LOW 0.4
+15,Female,31,1.56,56.8,5.52,LOW,1040.3,Oatmeal,1.8,Oatmeal LOW 1.8
+16,Male,58,1.63,61.9,4.15,SAFE,385.17,Spinach,4.6,Spinach SAFE 4.6
+17,Male,61,1.67,55.2,5.26,LOW,786.89,Pancakes,1.8,Pancakes LOW 1.8
+18,Female,59,1.71,64.6,4.98,SAFE,702.4,Green beans,3.3,Green beans SAFE 3.3
+19,Male,62,1.64,54.5,4.45,SAFE,1023.2,Papaya,3,Papaya SAFE 3
+20,Female,53,1.54,65.1,6,LOW,985.46,Star apple,2.3,Star apple LOW 2.3
+21,Female,24,1.68,65.9,6.16,LOW,779.7,Lumpiang sariwa,1.5,Lumpiang sariwa LOW 1.5
+22,Female,63,1.53,59.8,5.04,SAFE,929.5,Yogurt,4,Yogurt SAFE 4
+23,Male,47,1.65,56.2,4.3,SAFE,972.28,Grape juice,3,Grape juice SAFE 3
+24,Male,68,1.69,61.3,6.08,LOW,612.07,Zucchini,3.6,Zucchini LOW 3.6
+25,Female,51,1.57,55.7,4.39,LOW,1123.5,Jello,0.4,Jello LOW 0.4
+26,Female,64,1.61,63.9,5.4,LOW,896.1,Cream cheese,0.5,Cream cheese LOW 0.5
+27,Female,66,1.5,62.2,4.53,SAFE,772.68,Tortang talong,2.1,Tortang talong SAFE 2.1
+28,Female,42,1.72,54.6,5.36,LOW,1204.1,Linga,3.1,Langa LOW 3.1
+29,Male,55,1.49,62.5,5.63,LOW,1082.14,Jackfruit,2.3,Jackfruit LOW 2.3
+30,Male,28,1.76,75,3.8,SAFE,893.6,Strawberries,1.8,Strawberries SAFE 1.8
+31,Male,33,1.82,88,4.2,SAFE,584.3,Pineapple,2.4,Pineapple SAFE 2.4
+32,Female,42,1.6,58,3.9,SAFE,727.8,Cabbage,3,Cabbage SAFE 3
+33,Female,19,1.65,58,4.6,SAFE,586.9,Carrot,5,Carrot SAFE 5
+35,Female,26,1.63,54,3.7,SAFE,759.1,Cucumbers,1.9,Cucumbers SAFE 1.9
+36,Male,39,1.78,74.2,4.1,SAFE,387.8,Eggplant,3.1,Eggplant SAFE 3.1
+37,Female,23,1.67,58,4.3,SAFE,450.5,Blueberries,1.6,Blueberries SAFE 1.6
+38,Male,47,1.82,84,3.6,SAFE,703.2,Plums,2.9,Plums SAFE 2.9
+39,Female,34,1.59,51,4.5,SAFE,342.6,Lemon,1.2,Lemon SAFE 1.2
+40,Male,21,1.73,68.1,3.5,SAFE,510.2,Celery,1.3,Celery SAFE 1.3
+41,Female,44,1.64,61,4.4,SAFE,269.7,Lettuce,1.8,Lettuce SAFE 1.8
+42,Male,28,1.77,81,4,SAFE,550.9,Soursop,3.8,Soursop SAFE 3.8
+43,Female,33,1.7,67,3.4,HIGH,744.8,Sinangag,0.5,Sinangag HIGH 0.5
+45,Female,26,1.62,55.1,4.8,SAFE,580.4,Chicken tinola ,2.1,Chicken tinola  SAFE 2.1
+46,Male,45,1.76,79,4.7,SAFE,819.5,Ensaladang talong,2.5,Ensaladang talong SAFE 2.5
+47,Female,21,1.68,55,3.3,HIGH,258.1,Chicken breast,5.2,Chicken breast HIGH 5.2
+48,Male,29,1.81,77,4.9,SAFE,838.9,Daing na bangus,3.9,Daing na bangus SAFE 3.9
+49,Female,31,1.71,65,4.6,SAFE,274.2,Pinakbet,4,Pinakbet SAFE 4
+50,Male,41,1.8,86,4.2,SAFE,865.3,Adobong manok,3.8,Adobong manok SAFE 3.8
+51,Female,22,1.66,57,4.1,SAFE,800.1,Ginisang sayote,1.6,Ginisang sayote SAFE 1.6
+52,Male,50,1.83,83.5,4.5,SAFE,207.4,Ensaladang kamatis,2.2,Ensaladang kamatis SAFE 2.2
+53,Female,35,1.65,61,3.9,SAFE,604.7,Ukoy,1.3,Ukoy SAFE 1.3
+54,Male,25,1.74,72,4.4,SAFE,282.5,Ginataang kalabasa,3.6,Ginataang kalabasa SAFE 3.6
+55,Female,41,1.61,60.2,4.3,SAFE,452.3,Gising-gising,2.5,Gising-gising SAFE 2.5
+56,Male,30,1.79,80,3.8,SAFE,771.6,Pandesal,0.5,Pandesal SAFE 0.5
+57,Female,28,1.6,53,4.7,SAFE,842.4,Macaroni,1,Macaroni SAFE 1
+58,Male,48,1.78,85,4,SAFE,726.9,Tocino,1.4,Tocino SAFE 1.4
+59,Female,20,1.63,54,4.9,SAFE,759.5,Turon,0.9,Turon SAFE 0.9
+60,Male,27,1.72,73,3.5,SAFE,526.8,Puto,0.3,Puto SAFE 0.3
+61,Female,22,1.65,54.7,4.6,SAFE,728.9,Chopsuey,1.4,Chopsuey SAFE 1.4
+63,Male,41,1.72,80.3,4.8,SAFE,566.2,Arroz caldo,1.4,Arroz caldo SAFE 1.4
+64,Female,27,1.6,48.9,3.4,HIGH,472.9,Adobong pusit,1.4,Adobong pusit HIGH 1.4
+65,Male,19,1.77,68.2,4.2,SAFE,894.2,Kare-kare,1.4,Kare-kare SAFE 1.4
+66,Female,47,1.57,58.6,4.1,SAFE,539.6,Menudo,1.5,Menudo SAFE 1.5
+67,Male,56,1.82,89.4,4.5,SAFE,492.7,Embutido,1.5,Embutido SAFE 1.5
+68,Female,31,1.68,62.1,3.9,SAFE,771.8,Sisig,1.5,Sisig SAFE 1.5
+69,Male,25,1.63,73.6,4.3,SAFE,687.3,Pancit canton,1.6,Pancit canton SAFE 1.6
+70,Female,39,1.78,59.8,4.7,SAFE,568.6,Bicol express,1.6,Bicol express SAFE 1.6
+71,Male,44,1.73,81.7,3.6,SAFE,835.4,Binagoongan,1.7,Binagoongan SAFE 1.7
+72,Male,30,1.55,72.9,4,SAFE,739.9,Dinuguan,1.7,Dinuguan SAFE 1.7
+73,Female,28,1.82,46.5,4.4,SAFE,732.3,Beef steak,1.8,Beef steak SAFE 1.8
+74,Male,21,1.7,70.8,4.6,SAFE,888,Kilawin,1.8,Kilawin SAFE 1.8
+75,Female,36,1.79,63.9,3.3,HIGH,204.8,Lechon kawali,1.8,Lechon kawali HIGH 1.8
+76,Male,38,1.76,87.2,4.8,SAFE,270.7,Afritada,1.9,Afritada SAFE 1.9
+77,Male,29,1.64,75.4,4.9,SAFE,664.9,Sotanghon soup,1.9,Sotanghon soup SAFE 1.9
+78,Female,43,1.81,56.7,3.7,SAFE,850.7,Chicken curry,2,Chicken curry SAFE 2
+79,Male,50,1.67,83.6,4.2,SAFE,678.1,Caldereta,2,Caldereta SAFE 2
+80,Female,26,1.72,54.3,3.8,SAFE,663,Kare-kareng gulay,2.1,Kare-kareng gulay SAFE 2.1
+81,Male,31,1.61,73.9,4.1,SAFE,202.4,Laing,2.1,Laing SAFE 2.1
+82,Female,38,1.78,58.2,3.5,SAFE,692.7,Pansit luglug,2.2,Pansit luglug SAFE 2.2
+83,Male,42,1.75,80.6,4.3,SAFE,760.2,Pansit malabon,2.2,Pansit malabon SAFE 2.2
+84,Male,35,1.66,72.7,4.5,SAFE,827.1,Bistek,2.2,Bistek SAFE 2.2
+85,Female,29,1.77,53.8,3.9,SAFE,605.9,Pork adobo,2.2,Pork adobo SAFE 2.2
+86,Male,24,1.59,69.5,4.4,SAFE,956.3,Igado,2.2,Igado SAFE 2.2
+87,Female,47,1.56,57.1,4.7,SAFE,900.6,Mechado,2.2,Mechado SAFE 2.2
